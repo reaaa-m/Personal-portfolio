@@ -1,4 +1,4 @@
-console.log("Portfolio loaded successfully");
+console.log("Landing page loaded");
 
 // Smooth scrolling for internal links
 document.querySelectorAll('a[href^="#"]').forEach(link => {
@@ -10,4 +10,3 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
     }
   });
 });
-
